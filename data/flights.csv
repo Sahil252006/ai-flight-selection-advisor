@@ -1,0 +1,26 @@
+flight_id,airline,source,destination,price,duration_hours,stops,departure_time
+AI101,Air India,Mumbai,Delhi,6500,2.2,0,07:30
+6E205,IndiGo,Mumbai,Delhi,5800,2.3,0,10:00
+AI304,Air India,Mumbai,Delhi,7200,2.1,0,18:30
+SG501,SpiceJet,Mumbai,Delhi,4900,4.5,1,13:00
+6E410,IndiGo,Mumbai,Delhi,8500,2.0,0,20:00
+UK701,Vistara,Mumbai,Delhi,7600,2.3,0,08:15
+AI202,Air India,Mumbai,Bangalore,6200,2.0,0,09:00
+6E301,IndiGo,Mumbai,Bangalore,5400,1.9,0,17:30
+SG601,SpiceJet,Mumbai,Bangalore,4500,3.8,1,12:00
+AI505,Air India,Mumbai,Bangalore,7800,2.1,0,20:30
+6E501,IndiGo,Mumbai,Hyderabad,4200,1.6,0,07:00
+AI601,Air India,Mumbai,Hyderabad,5500,1.8,0,18:00
+SG701,SpiceJet,Mumbai,Hyderabad,3800,3.4,1,14:00
+6E701,IndiGo,Mumbai,Chennai,5200,2.0,0,08:30
+AI801,Air India,Mumbai,Chennai,6800,2.2,0,19:00
+SG801,SpiceJet,Mumbai,Chennai,4600,4.2,1,11:30
+6E901,IndiGo,Mumbai,Kolkata,6500,2.7,0,06:45
+AI901,Air India,Mumbai,Kolkata,7200,2.8,0,17:45
+SG901,SpiceJet,Mumbai,Kolkata,5600,5.0,1,13:30
+6E100,IndiGo,Delhi,Mumbai,5900,2.3,0,09:30
+AI100,Air India,Delhi,Mumbai,6900,2.2,0,18:15
+6E200,IndiGo,Bangalore,Mumbai,5500,2.0,0,08:00
+AI200,Air India,Bangalore,Mumbai,6500,2.1,0,19:30
+6E300,IndiGo,Hyderabad,Mumbai,4300,1.7,0,10:15
+AI300,Air India,Hyderabad,Mumbai,5700,1.8,0,20:00
